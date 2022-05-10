@@ -16,4 +16,4 @@ So baixar o projeto e basta apenas abrir o arquivo index.html em um navegador de
 
 ## Confira o resultado clicando no Gif.
 
-<a href="https://github.com/Pablohenrique2/Portifolio/settings/pages" alt="Gif de desenho antigo"></a>
+<a href="https://pablohenrique2.github.io/Portifolio/" alt="Gif de desenho antigo"></a>
